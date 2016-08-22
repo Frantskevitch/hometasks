@@ -1,68 +1,600 @@
 
-SNAPSHOT 1 :    22-08-2016 17:03:31: 
+{ 
 
-CPU percent
-6.1
-Space Avaliable GB
-19
-Vmemory used MB
-3393
-MB send
-7
+"SNAPSHOT 1" : " 22-08-2016 21:40:04:",
 
-
-SNAPSHOT 1 :    22-08-2016 17:03:52: 
-
-CPU percent
-5.1
-Space Avaliable GB
-19
-Vmemory used MB
-3393
-MB send
-7
+"CPU":
+{
+ "percent": 2.0
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3543
+}
+,"Network":
+{
+ "MB send": 9
+}
 
 
-SNAPSHOT 1 :    22-08-2016 17:04:19: 
+} 
 
-CPU percent
-4.5
-Space Avaliable GB
-19
-Vmemory used MB
-3395
-MB send
-7
+{ 
 
+"SNAPSHOT 2" : " 22-08-2016 21:40:13:",
 
-SNAPSHOT 2 :    22-08-2016 17:04:28: 
-
-CPU percent
-6.5
-Space Avaliable GB
-19
-Vmemory used MB
-3395
-MB send
-7
-
-
-SNAPSHOT 3 :    22-08-2016 17:04:37: 
-
-CPU percent
-10.7
-Space Avaliable GB
-19
-Vmemory used MB
-3396
-MB send
-7
+"CPU":
+{
+ "percent": 1.5
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
 
 
-SNAPSHOT 4 :    22-08-2016 17:04:46: 
+} 
 
-CPU percent
-9.6
-Space Avaliable GB
-19
-Vmemory used MB
+{ 
+
+"SNAPSHOT 3" : " 22-08-2016 21:40:22:",
+
+"CPU":
+{
+ "percent": 2.5
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 4" : " 22-08-2016 21:40:31:",
+
+"CPU":
+{
+ "percent": 2.0
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 5" : " 22-08-2016 21:40:40:",
+
+"CPU":
+{
+ "percent": 2.0
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 6" : " 22-08-2016 21:40:49:",
+
+"CPU":
+{
+ "percent": 2.5
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 7" : " 22-08-2016 21:40:58:",
+
+"CPU":
+{
+ "percent": 5.5
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3543
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 8" : " 22-08-2016 21:41:07:",
+
+"CPU":
+{
+ "percent": 7.5
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 9" : " 22-08-2016 21:41:16:",
+
+"CPU":
+{
+ "percent": 16.6
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 10" : " 22-08-2016 21:41:25:",
+
+"CPU":
+{
+ "percent": 12.5
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3541
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 11" : " 22-08-2016 21:41:34:",
+
+"CPU":
+{
+ "percent": 7.5
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3541
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 12" : " 22-08-2016 21:41:43:",
+
+"CPU":
+{
+ "percent": 6.6
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3540
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 13" : " 22-08-2016 21:41:52:",
+
+"CPU":
+{
+ "percent": 15.0
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3540
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 14" : " 22-08-2016 21:42:01:",
+
+"CPU":
+{
+ "percent": 9.6
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3540
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 15" : " 22-08-2016 21:42:10:",
+
+"CPU":
+{
+ "percent": 28.4
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3541
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 16" : " 22-08-2016 21:42:19:",
+
+"CPU":
+{
+ "percent": 5.0
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3541
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 17" : " 22-08-2016 21:42:28:",
+
+"CPU":
+{
+ "percent": 4.0
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3540
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 18" : " 22-08-2016 21:42:37:",
+
+"CPU":
+{
+ "percent": 7.1
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3540
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 19" : " 22-08-2016 21:42:46:",
+
+"CPU":
+{
+ "percent": 9.1
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3541
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 20" : " 22-08-2016 21:42:55:",
+
+"CPU":
+{
+ "percent": 10.1
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 21" : " 22-08-2016 21:43:04:",
+
+"CPU":
+{
+ "percent": 14.1
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 22" : " 22-08-2016 21:43:13:",
+
+"CPU":
+{
+ "percent": 12.6
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 23" : " 22-08-2016 21:43:22:",
+
+"CPU":
+{
+ "percent": 7.1
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 24" : " 22-08-2016 21:43:31:",
+
+"CPU":
+{
+ "percent": 3.0
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3542
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 25" : " 22-08-2016 21:43:40:",
+
+"CPU":
+{
+ "percent": 24.1
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "used MB": 3547
+}
+,"Network":
+{
+ "MB send": 9
+}
+
+
+} 
