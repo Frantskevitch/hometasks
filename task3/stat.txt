@@ -1,0 +1,6 @@
+
+SNAPSHOT 1   22-08-2016 16:50:49:   CPU percent: 10.6  Space Avaliable GB: 19  Vmemory used MB: 3408  MB send: 7
+SNAPSHOT 2   22-08-2016 16:51:30:   CPU percent: 4.5  Space Avaliable GB: 19  Vmemory used MB: 3371  MB send: 7
+SNAPSHOT 3   22-08-2016 16:52:49:   CPU percent: 1.5  Space Avaliable GB: 19  Vmemory used MB: 3382  MB send: 7
+SNAPSHOT 4   22-08-2016 17:03:01:   CPU percent: 15.7  Space Avaliable GB: 19  Vmemory used MB: 3392  MB send: 7
+SNAPSHOT 5   22-08-2016 17:03:10:   CPU percent: 3.5  Space Avaliable GB: 19  Vmemory used MB: 3391  MB send: 7
