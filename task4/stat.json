@@ -1,0 +1,48 @@
+
+{ 
+
+"SNAPSHOT 1" : " 23-08-2016 05:21:48:",
+
+"CPU":
+{
+ "Percent load": 6.0
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "Used MB": 3669
+}
+,"Network":
+{
+ "MB send": 12
+}
+
+
+} 
+
+{ 
+
+"SNAPSHOT 2" : " 23-08-2016 05:21:57:",
+
+"CPU":
+{
+ "Percent load": 1.0
+}
+,"Space":
+{
+ "Avaliable GB": 19
+}
+,"Vmemory": 
+{
+ "Used MB": 3669
+}
+,"Network":
+{
+ "MB send": 12
+}
+
+
+} 
