@@ -1,0 +1,201 @@
+Enter writelog function  with parameters [1]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7fcc741c2048>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [1]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f0c6528bf98>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [1]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3a5160>]
+Exit writelog
+Enter writelog function  with parameters [2]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3a54a8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [3]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838df1feb8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [4]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838df1f1d0>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [5]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838df1f198>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [6]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838df1feb8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [7]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838df1fe48>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [8]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838df1feb8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [9]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3fd0>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [10]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3e80>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [11]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3d68>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [12]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3f98>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [13]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3fd0>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [14]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3e80>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [15]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3e80>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [16]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3fd0>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [17]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3f60>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [18]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3e80>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [19]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3d68>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [20]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3f98>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [21]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3fd0>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [22]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3fd0>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [23]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3f98>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [24]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3e80>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [25]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3eb8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [26]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3d68>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [27]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3e80>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [28]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3e80>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [29]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3d68>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [30]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3c88>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [31]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3e80>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [32]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3dd8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [33]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3f98>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [34]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3d68>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [35]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3d68>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [36]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3f98>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [37]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3cf8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [38]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3f98>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [39]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3e80>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [40]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3dd8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [41]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3dd8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [42]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3e80>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [43]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3d68>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [44]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3dd8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [45]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3eb8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [46]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3f98>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [47]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3f98>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [48]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f838e3b3eb8>]
+Exit json_write
+Exit writelog
+Enter writelog function  with parameters [1]
+Enter json_write function  with parameters [<__main__.WriteToFile object at 0x7f9552d45128>]
